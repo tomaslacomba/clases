@@ -3,7 +3,8 @@ https://github.com/lucasmquinteros/Parcial-POO
 
 Agregación flecha con un rombo
 
-Agregación es un tipo especial de asociación en la que los objetos se ensamblan o configuran juntos para crear un objeto más complejo. Una agregación describe un grupo de objetos y cómo se interactúa con ellos.
+Agregación es un tipo especial de asociación en la que los objetos se ensamblan o configuran juntos para crear un objeto más complejo.
+Una agregación describe un grupo de objetos y cómo se interactúa con ellos.
 
 Dependencia flecha de puntos
 
@@ -19,4 +20,5 @@ Generalización es una relación en la que un elemento del modelo (hijo) se basa
 
 Asociación flecha doble con linea de puntos
 
-Asociación es una relación entre dos clasificadores, como clases o casos de uso, que muestra las razones de la relación y las reglas que la rigen.
+Asociación es una relación entre dos clasificadores, como clases o casos de uso, que muestra las razones de la relación 
+y las reglas que la rigen.
