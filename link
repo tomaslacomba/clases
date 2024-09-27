@@ -1,1 +1,22 @@
 https://github.com/lucasmquinteros/Parcial-POO
+
+
+Agregación flecha con un rombo
+
+Agregación es un tipo especial de asociación en la que los objetos se ensamblan o configuran juntos para crear un objeto más complejo. Una agregación describe un grupo de objetos y cómo se interactúa con ellos.
+
+Dependencia flecha de puntos
+
+Dependencia es una relación en la que un elemento utiliza o depende de otro elemento.
+
+Composición flecha de rombo relleno
+
+Composición representa relaciones de partes enteras y es una forma de agregación.
+
+Generalización flecha normal con punta triangular
+
+Generalización es una relación en la que un elemento del modelo (hijo) se basa en otro elemento del modelo (padre).
+
+Asociación flecha doble con linea de puntos
+
+Asociación es una relación entre dos clasificadores, como clases o casos de uso, que muestra las razones de la relación y las reglas que la rigen.
